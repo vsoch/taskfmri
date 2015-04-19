@@ -1,0 +1,372 @@
+url_image	cognitive_paradigm_cogatlas	contrast_definition	contrast_uid	DOI	full_dataset_url	Fixation	Spatial attention	Stimulus-driven attention	Orthography	Phonology	Semantics	Speech	WorkingMemory	ReinforcementLearning	Audition	Vision	ShapeVision	ActionExecution	ResponseInhibition	Reward	Punishment	DecisionMaking	Feedback	Error processing	Conflict	Emotion regulation	Mentalizing	Memory encoding	
+http://neurovault.org/images/2917/	letter n-back task			10.3389/fnhum.2012.00137	https://openfmri.org/dataset/ds000115																								
+http://neurovault.org/images/2924/	letter n-back task			10.3389/fnhum.2012.00137	https://openfmri.org/dataset/ds000115																								
+http://neurovault.org/images/2912/	letter n-back task			10.3389/fnhum.2012.00137	https://openfmri.org/dataset/ds000115																								
+http://neurovault.org/images/2915/	letter n-back task			10.3389/fnhum.2012.00137	https://openfmri.org/dataset/ds000115																								
+http://neurovault.org/images/2914/	letter n-back task			10.3389/fnhum.2012.00137	https://openfmri.org/dataset/ds000115																								
+http://neurovault.org/images/2918/	letter n-back task			10.3389/fnhum.2012.00137	https://openfmri.org/dataset/ds000115																								
+http://neurovault.org/images/2916/	letter n-back task			10.3389/fnhum.2012.00137	https://openfmri.org/dataset/ds000115																								
+http://neurovault.org/images/2919/	letter n-back task			10.3389/fnhum.2012.00137	https://openfmri.org/dataset/ds000115																								
+http://neurovault.org/images/2921/	letter n-back task			10.3389/fnhum.2012.00137	https://openfmri.org/dataset/ds000115																								
+http://neurovault.org/images/2923/	letter n-back task			10.3389/fnhum.2012.00137	https://openfmri.org/dataset/ds000115																								
+http://neurovault.org/images/2925/	letter n-back task			10.3389/fnhum.2012.00137	https://openfmri.org/dataset/ds000115																								
+http://neurovault.org/images/2926/	letter n-back task			10.3389/fnhum.2012.00137	https://openfmri.org/dataset/ds000115																								
+http://neurovault.org/images/2928/	letter n-back task			10.3389/fnhum.2012.00137	https://openfmri.org/dataset/ds000115																								
+http://neurovault.org/images/2929/	letter n-back task			10.3389/fnhum.2012.00137	https://openfmri.org/dataset/ds000115																								
+http://neurovault.org/images/2913/	letter n-back task			10.3389/fnhum.2012.00137	https://openfmri.org/dataset/ds000115																								
+http://neurovault.org/images/2920/	letter n-back task			10.3389/fnhum.2012.00137	https://openfmri.org/dataset/ds000115																								
+http://neurovault.org/images/2922/	letter n-back task			10.3389/fnhum.2012.00137	https://openfmri.org/dataset/ds000115																								
+http://neurovault.org/images/2927/	letter n-back task			10.3389/fnhum.2012.00137	https://openfmri.org/dataset/ds000115																								
+http://neurovault.org/images/3039/	conditional stop signal task	scrambled objects		10.1523/JNEUROSCI.0519-07.2007	https://openfmri.org/dataset/ds000008																								
+http://neurovault.org/images/3040/	conditional stop signal task	 unsucc minus succ stop		10.1523/JNEUROSCI.0519-07.2007	https://openfmri.org/dataset/ds000008																								
+http://neurovault.org/images/3041/	conditional stop signal task	succstop minus go		10.1523/JNEUROSCI.0519-07.2007	https://openfmri.org/dataset/ds000008				1							1				1			1			1			
+http://neurovault.org/images/143/	stop signal task	go		10.1523/JNEUROSCI.0519-07.2007	https://openfmri.org/dataset/ds000008																								
+http://neurovault.org/images/144/	conditional stop signal task	go - noncritical		10.1523/JNEUROSCI.0519-07.2007	https://openfmri.org/dataset/ds000008																								
+http://neurovault.org/images/147/	stop signal task	successful stop		10.1523/JNEUROSCI.0519-07.2007	https://openfmri.org/dataset/ds000008				1							1				1						1			
+http://neurovault.org/images/146/	stop signal task	failed stop		10.1523/JNEUROSCI.0519-07.2007	https://openfmri.org/dataset/ds000008																								
+http://neurovault.org/images/148/	conditional stop signal task	go-critical		10.1523/JNEUROSCI.0519-07.2007	https://openfmri.org/dataset/ds000008																								
+http://neurovault.org/images/150/	conditional stop signal task	junk		10.1523/JNEUROSCI.0519-07.2007	https://openfmri.org/dataset/ds000008																								
+http://neurovault.org/images/151/	stop signal task	successful stop - go		10.1523/JNEUROSCI.0519-07.2007	https://openfmri.org/dataset/ds000008																								
+http://neurovault.org/images/149/	conditional stop signal task	successful stop-critical		10.1523/JNEUROSCI.0519-07.2007	https://openfmri.org/dataset/ds000008																								
+http://neurovault.org/images/152/	stop signal task	all		10.1523/JNEUROSCI.0519-07.2007	https://openfmri.org/dataset/ds000008																								
+http://neurovault.org/images/155/	conditional stop signal task	all		10.1523/JNEUROSCI.0519-07.2007	https://openfmri.org/dataset/ds000008																								
+http://neurovault.org/images/153/	stop signal task	junk		10.1523/JNEUROSCI.0519-07.2007	https://openfmri.org/dataset/ds000008																								
+http://neurovault.org/images/142/	conditional stop signal task	failed stop-critical		10.1523/JNEUROSCI.0519-07.2007	https://openfmri.org/dataset/ds000008																								
+http://neurovault.org/images/145/	stop signal task	unsuccessful - successful stop		10.1523/JNEUROSCI.0519-07.2007	https://openfmri.org/dataset/ds000008																								
+http://neurovault.org/images/154/	conditional stop signal task	failed stop-noncritical		10.1523/JNEUROSCI.0519-07.2007	https://openfmri.org/dataset/ds000008																								
+http://neurovault.org/images/3129/	Emotion Processing fMRI Task Paradigm	Faces		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3131/	Emotion Processing fMRI Task Paradigm	Shapes		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3135/	Gambling fMRI Task Paradigm	Punish		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3136/	Gambling fMRI Task Paradigm	Reward - Punish		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3137/	Gambling fMRI Task Paradigm	Reward		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3141/	Language Processing fMRI Task Paradigm	Math		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3142/	Language Processing fMRI Task Paradigm	Story - Math		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3143/	Language Processing fMRI Task Paradigm	Story		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3152/	Motor fMRI Task Paradigm	Average		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3153/	Motor fMRI Task Paradigm	Cue - Average		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3154/	Motor fMRI Task Paradigm	Cue		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3155/	Motor fMRI Task Paradigm	Left Toe (Foot) - Average		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3156/	Motor fMRI Task Paradigm	Left Toe (Foot)		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3157/	Motor fMRI Task Paradigm	Left Finger (Hand) - Average		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3158/	Motor fMRI Task Paradigm	Left Finger (Hand)		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3159/	Motor fMRI Task Paradigm	Right Toe (Foot) - Average		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3162/	Motor fMRI Task Paradigm	Right Finger (Hand)		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3160/	Motor fMRI Task Paradigm	Right Toe (Foot)		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3161/	Motor fMRI Task Paradigm	Right Finger (Hand) - Average		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3163/	Motor fMRI Task Paradigm	Tongue - Average		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3164/	Motor fMRI Task Paradigm	Tongue		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3173/	Relational Processing fMRI Task Paradigm	Matching		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3204/	Working Memory fMRI Task Paradigm	Place - Average		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3175/	Relational Processing fMRI Task Paradigm	Relational Processing		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3206/	Working Memory fMRI Task Paradigm	Tool - Average		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3179/	Social Cognition (Theory of Mind) fMRI Task Paradigm	Random Interaction		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3180/	Social Cognition (Theory of Mind) fMRI Task Paradigm	Mental Interaction - Random Interaction		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3181/	Social Cognition (Theory of Mind) fMRI Task Paradigm	Mental Interaction		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3186/	Working Memory fMRI Task Paradigm	0-back Face		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3187/	Working Memory fMRI Task Paradigm	0-back Place		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3185/	Working Memory fMRI Task Paradigm	0-back Body		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3188/	Working Memory fMRI Task Paradigm	0-back Tool		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3189/	Working Memory fMRI Task Paradigm	0-back All		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3191/	Working Memory fMRI Task Paradigm	2-back Body		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3192/	Working Memory fMRI Task Paradigm	2-back Face		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3193/	Working Memory fMRI Task Paradigm	2-back Place		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3194/	Working Memory fMRI Task Paradigm	2-back Tool		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3195/	Working Memory fMRI Task Paradigm	2-back All		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3200/	Working Memory fMRI Task Paradigm	Body - Average		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3201/	Working Memory fMRI Task Paradigm	Body		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3202/	Working Memory fMRI Task Paradigm	Face - Average		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3203/	Working Memory fMRI Task Paradigm	Face		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3172/	Relational Processing fMRI Task Paradigm	Matching - Relational Processing		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3205/	Working Memory fMRI Task Paradigm	Place		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3207/	Working Memory fMRI Task Paradigm	Tool		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3128/	Emotion Processing fMRI Task Paradigm	Faces - Shapes		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/3190/	Working Memory fMRI Task Paradigm	2-back - 0-back		10.1016/j.neuroimage.2013.05.041	https://db.humanconnectome.org/																								
+http://neurovault.org/images/2869/	emotional regulation task	Look_Neg_Rating_gt_Look_Neu_Rating		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/2862/	emotional regulation task	Reapp_Neg_Ant_gt_Look_Neg_Ant		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/2863/	emotional regulation task	Look_Neutral_Stim		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/2864/	emotional regulation task	Look_Neu_Ant_gt_Reapp_Neg_Ant		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/2865/	emotional regulation task	Look_Neg_Ant_gt_Look_Neu_Ant		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/2866/	emotional regulation task	Reapp_Neg_Stim_gt_Look_Neg_Stim		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/2868/	emotional regulation task	Look_Neu_Rating_gt_Reapp_Neg_Rating		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/2872/	emotional regulation task	Look_Neg_Cue_gt_Reapp_Neg_Cue		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/2871/	emotional regulation task	Look_Neg_Rating		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/2874/	emotional regulation task	Reapp_Neg_Rating_gt_Look_Neu_Rating		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/2877/	emotional regulation task	Look_Neu_Ant_gt_Look_Neg_Ant		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/2875/	emotional regulation task	Reapp_Neg_Ant		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/2876/	emotional regulation task	Look_Neutral_Ant		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/2879/	emotional regulation task	all		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/2870/	emotional regulation task	Reapp_Neg_Cue		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/2878/	emotional regulation task	Look_Neu_Rating_gt_Look_Neg_Rating		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/2873/	emotional regulation task	Look_Neu_Cue_gt_Look_Neg_Cue		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/2861/	emotional regulation task	Look_Neg_Cue		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/8736/	emotional regulation task	Look Neg Stim gt Look Neu Stim		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/8737/	emotional regulation task	LookNeg Rating gt Reapp Neg Rating		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/8738/	emotional regulation task	Reapp Neg Rating gt Look Neg Rating		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/8739/	emotional regulation task	Reapp Neg Ant gt Look Neu Ant		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/8740/	emotional regulation task	Reapp Neg Cue gt Look Neu Cue		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/8741/	emotional regulation task	Look Neg Cue gt Look Neu Cue		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/8742/	emotional regulation task	Look Neu Stim gt Look Neg Stim		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/8743/	emotional regulation task	Reapp Neg Stim gt Look Neu Stim		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/2867/	emotional regulation task	Look_Neg_Stim_gt_Reapp_Neg_Stim		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/8726/	emotional regulation task	Look Neutral Cue		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/8727/	emotional regulation task	Look Neg Stim		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/8728/	emotional regulation task	Reapp Neg Stim		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/8729/	emotional regulation task	Look Neutral Rating		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/8730/	emotional regulation task	Reapp Neg Rating		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/8731/	emotional regulation task	Look Negative Ant		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/8732/	emotional regulation task	 Look Neu Cue gt Reapp Neg Cue		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/8733/	emotional regulation task	Look Neu Stim gt Reapp Neg Stim		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/8734/	emotional regulation task	Look Neg Ant gt Reapp Neg Ant		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/8735/	emotional regulation task	Reapp Neg Cue		10.1016/j.neuron.2008.09.006	https://openfmri.org/dataset/ds000108																								
+http://neurovault.org/images/4/	mixed gambles task	parametric gain		10.1126/science.1134239	https://openfmri.org/dataset/ds000005																1								
+http://neurovault.org/images/5/	mixed gambles task	parametric loss		10.1126/science.1134239	https://openfmri.org/dataset/ds000005																								
+http://neurovault.org/images/3/	mixed gambles task	task - baseline		10.1126/science.1134239	https://openfmri.org/dataset/ds000005																								
+http://neurovault.org/images/8718/	mixed gambles task	distance from indifference		10.1126/science.1134239	https://openfmri.org/dataset/ds000005																								
+http://neurovault.org/images/8719/	mixed gambles task	Negative Loss Paradigm		10.1126/science.1134239	https://openfmri.org/dataset/ds000005																								
+http://neurovault.org/images/135/	deterministic classification	task		10.1016/j.neuroimage.2005.08.010	https://openfmri.org/dataset/ds000002																								
+http://neurovault.org/images/139/	classification probe without feedback	classification-deterministic		10.1016/j.neuroimage.2005.08.010	https://openfmri.org/dataset/ds000002																								
+http://neurovault.org/images/140/	classification probe without feedback	classification-probabilistic		10.1016/j.neuroimage.2005.08.010	https://openfmri.org/dataset/ds000002																								
+http://neurovault.org/images/141/	Probabilistic classification task	task		10.1016/j.neuroimage.2005.08.010	https://openfmri.org/dataset/ds000002										1		1	1	1				1						
+http://neurovault.org/images/136/	Probabilistic classification task	feedback		10.1016/j.neuroimage.2005.08.010	https://openfmri.org/dataset/ds000002					1							1	1						1					
+http://neurovault.org/images/138/	deterministic classification	feedback		10.1016/j.neuroimage.2005.08.010	https://openfmri.org/dataset/ds000002												1	1	1				1						
+http://neurovault.org/images/185/	word one-back task	words - consonants		10.1016/j.neuroimage.2009.03.014	https://openfmri.org/dataset/ds000107						1	1																	
+http://neurovault.org/images/186/	word one-back task	words		10.1016/j.neuroimage.2009.03.014	https://openfmri.org/dataset/ds000107																								
+http://neurovault.org/images/187/	word one-back task	scrambled objects		10.1016/j.neuroimage.2009.03.014	https://openfmri.org/dataset/ds000107																								
+http://neurovault.org/images/184/	word one-back task	objects - scrambled		10.1016/j.neuroimage.2009.03.014	https://openfmri.org/dataset/ds000107																								
+http://neurovault.org/images/188/	word one-back task	objects		10.1016/j.neuroimage.2009.03.014	https://openfmri.org/dataset/ds000107																								
+http://neurovault.org/images/190/	word one-back task	consonant strings		10.1016/j.neuroimage.2009.03.014	https://openfmri.org/dataset/ds000107																								
+http://neurovault.org/images/126/	Balloon Analogue Risk Task (BART)	control fixed - pumps fixed		10.3389/fnins.2012.00080	https://openfmri.org/dataset/ds000001									1	1						1	1	1			1			
+http://neurovault.org/images/125/	Balloon Analogue Risk Task (BART)	cash demean		10.3389/fnins.2012.00080	https://openfmri.org/dataset/ds000001									1	1						1	1	1			1			
+http://neurovault.org/images/115/	Balloon Analogue Risk Task (BART)	control demean - pumps demean		10.3389/fnins.2012.00080	https://openfmri.org/dataset/ds000001									1	1						1	1	1			1			
+http://neurovault.org/images/117/	Balloon Analogue Risk Task (BART)	cash fixed real reaction time		10.3389/fnins.2012.00080	https://openfmri.org/dataset/ds000001									1	1						1	1	1			1			
+http://neurovault.org/images/123/	Balloon Analogue Risk Task (BART)	control pumps fixed		10.3389/fnins.2012.00080	https://openfmri.org/dataset/ds000001									1	1						1	1	1			1			
+http://neurovault.org/images/121/	Balloon Analogue Risk Task (BART)	control pumps fixed real reaction time		10.3389/fnins.2012.00080	https://openfmri.org/dataset/ds000001									1	1						1	1	1			1			
+http://neurovault.org/images/118/	Balloon Analogue Risk Task (BART)	cash fixed		10.3389/fnins.2012.00080	https://openfmri.org/dataset/ds000001									1	1						1	1	1			1			
+http://neurovault.org/images/131/	Balloon Analogue Risk Task (BART)	control real reaction time - pumps real reaction time		10.3389/fnins.2012.00080	https://openfmri.org/dataset/ds000001									1	1						1	1	1			1			
+http://neurovault.org/images/130/	Balloon Analogue Risk Task (BART)	control pumps demean		10.3389/fnins.2012.00080	https://openfmri.org/dataset/ds000001									1	1						1	1	1			1			
+http://neurovault.org/images/127/	Balloon Analogue Risk Task (BART)	pumps real reaction time - control real reaction time		10.3389/fnins.2012.00080	https://openfmri.org/dataset/ds000001									1	1						1	1	1			1			
+http://neurovault.org/images/120/	Balloon Analogue Risk Task (BART)	pumps fixed		10.3389/fnins.2012.00080	https://openfmri.org/dataset/ds000001									1	1						1	1	1			1			
+http://neurovault.org/images/122/	Balloon Analogue Risk Task (BART)	pumps demean		10.3389/fnins.2012.00080	https://openfmri.org/dataset/ds000001									1	1						1	1	1			1			
+http://neurovault.org/images/124/	Balloon Analogue Risk Task (BART)	pumps demean - control demean		10.3389/fnins.2012.00080	https://openfmri.org/dataset/ds000001									1	1						1	1	1			1			
+http://neurovault.org/images/119/	Balloon Analogue Risk Task (BART)	explode fixed		10.3389/fnins.2012.00080	https://openfmri.org/dataset/ds000001									1	1						1	1	1			1			
+http://neurovault.org/images/116/	Balloon Analogue Risk Task (BART)	pumps fixed real reaction time		10.3389/fnins.2012.00080	https://openfmri.org/dataset/ds000001									1	1						1	1	1			1			
+http://neurovault.org/images/132/	Balloon Analogue Risk Task (BART)	pumps fixed - control fixed		10.3389/fnins.2012.00080	https://openfmri.org/dataset/ds000001									1	1						1	1	1			1			
+http://neurovault.org/images/2702/	abstract/concrete judgment: bilingual	Spanish-English-Abstract-Repeat			https://openfmri.org/dataset/ds000051																								
+http://neurovault.org/images/2686/	abstract/concrete judgment: bilingual	English-English-Concrete-Novel			https://openfmri.org/dataset/ds000051																								
+http://neurovault.org/images/2688/	abstract/concrete judgment: bilingual	abstract - concrete			https://openfmri.org/dataset/ds000051																								
+http://neurovault.org/images/2689/	abstract/concrete judgment: bilingual	English-Spanish-Abstract-Repeat			https://openfmri.org/dataset/ds000051																								
+http://neurovault.org/images/2690/	abstract/concrete judgment: bilingual	Spanish-Spanish-Abstract-Repeat			https://openfmri.org/dataset/ds000051																								
+http://neurovault.org/images/2691/	abstract/concrete judgment: bilingual	Spanish-English-Concrete-Novel			https://openfmri.org/dataset/ds000051																								
+http://neurovault.org/images/2692/	abstract/concrete judgment: bilingual	Spanish-English-Concrete-Repeat			https://openfmri.org/dataset/ds000051																								
+http://neurovault.org/images/2693/	abstract/concrete judgment: bilingual	English-Spanish-Concrete-Novel			https://openfmri.org/dataset/ds000051																								
+http://neurovault.org/images/2695/	abstract/concrete judgment: bilingual	English-English-Concrete-Repeat			https://openfmri.org/dataset/ds000051																								
+http://neurovault.org/images/2697/	abstract/concrete judgment: bilingual	Spanish-Spanish-Concrete-Novel			https://openfmri.org/dataset/ds000051																								
+http://neurovault.org/images/2694/	abstract/concrete judgment: bilingual	English-Spanish-Abstract-Novel			https://openfmri.org/dataset/ds000051																								
+http://neurovault.org/images/2698/	abstract/concrete judgment: bilingual	English-English-Abstract-Repeat			https://openfmri.org/dataset/ds000051																								
+http://neurovault.org/images/2696/	abstract/concrete judgment: bilingual	Spanish-Spanish-Concrete-Repeat			https://openfmri.org/dataset/ds000051																								
+http://neurovault.org/images/2687/	abstract/concrete judgment: bilingual	Spanish-Spanish-Abstract-Novel			https://openfmri.org/dataset/ds000051																								
+http://neurovault.org/images/2699/	abstract/concrete judgment: bilingual	all			https://openfmri.org/dataset/ds000051																								
+http://neurovault.org/images/2701/	abstract/concrete judgment: bilingual	Spanish-English-Abstract-Novel			https://openfmri.org/dataset/ds000051																								
+http://neurovault.org/images/2700/	abstract/concrete judgment: bilingual	novel - repeat			https://openfmri.org/dataset/ds000051					1	1	1																	
+http://neurovault.org/images/2703/	abstract/concrete judgment: bilingual	English-Spanish-Concrete-Repeat			https://openfmri.org/dataset/ds000051																								
+http://neurovault.org/images/2685/	abstract/concrete judgment: bilingual	English-English-Abstract-Novel			https://openfmri.org/dataset/ds000051																								
+http://neurovault.org/images/157/	dual-task weather prediction	dual-task tone counting probe http://www.cognitiveatlas.org/contrast/id/cnt_4ebcaa52e7dbd		10.1073/pnas.0602659103	https://openfmri.org/dataset/ds000011																								
+http://neurovault.org/images/158/	single-task weather prediction 	single-task probe		10.1073/pnas.0602659103	https://openfmri.org/dataset/ds000011																								
+http://neurovault.org/images/159/	tone counting	tone counting trials http://www.cognitiveatlas.org/contrast/id/cnt_4ebca9e1d3a16		10.1073/pnas.0602659103	https://openfmri.org/dataset/ds000011									1		1													
+http://neurovault.org/images/165/	single-task weather prediction 	single-task classification learning trials http://www.cognitiveatlas.org/contrast/id/cnt_4ebcaa755a7e5		10.1073/pnas.0602659103	https://openfmri.org/dataset/ds000011										1		1	1	1				1						
+http://neurovault.org/images/166/	dual-task weather prediction	dual-task classification learning trials		10.1073/pnas.0602659103	https://openfmri.org/dataset/ds000011				1					1	1	1	1	1	1				1	1					
+http://neurovault.org/images/163/	classification probe without feedback	correct classification of dual-task items http://www.cognitiveatlas.org/contrast/id/cnt_54f8cbcb6fab6		10.1073/pnas.0602659103	https://openfmri.org/dataset/ds000011																								
+http://neurovault.org/images/164/	tone counting	tone counting probe http://www.cognitiveatlas.org/contrast/id/cnt_54f8cb27bce65		10.1073/pnas.0602659103	https://openfmri.org/dataset/ds000011																								
+http://neurovault.org/images/167/	classification probe without feedback	correct classification of single-task items http://www.cognitiveatlas.org/contrast/id/cnt_4ebcaad4c41d7		10.1073/pnas.0602659103	https://openfmri.org/dataset/ds000011																								
+http://neurovault.org/images/8721/	classification probe without feedback	junk single-task items		10.1073/pnas.0602659103	https://openfmri.org/dataset/ds000011																								
+http://neurovault.org/images/8722/	classification probe without feedback	junk dual-task items		10.1073/pnas.0602659103	https://openfmri.org/dataset/ds000011																								
+http://neurovault.org/images/169/	Probabilistic classification task	negative feedback		10.1038/35107080	https://openfmri.org/dataset/ds000052					1							1	1				1		1					
+http://neurovault.org/images/173/	Probabilistic classification task	positive feedback		10.1038/35107080	https://openfmri.org/dataset/ds000052					1							1	1			1			1					
+http://neurovault.org/images/174/	Probabilistic classification task	positive feedback		10.1038/35107080	https://openfmri.org/dataset/ds000052																								
+http://neurovault.org/images/171/	Probabilistic classification task	positive - negative		10.1038/35107080	https://openfmri.org/dataset/ds000052																								
+http://neurovault.org/images/172/	Probabilistic classification task	negative feedback		10.1038/35107080	https://openfmri.org/dataset/ds000052																								
+http://neurovault.org/images/2881/	false belief task	false photo question		10.1523/JNEUROSCI.5511-11.2012	https://openfmri.org/dataset/ds000109																								
+http://neurovault.org/images/2883/	false belief task	false belief question - false picture question		10.1523/JNEUROSCI.5511-11.2012	https://openfmri.org/dataset/ds000109																								
+http://neurovault.org/images/2882/	false belief task	false photo story		10.1523/JNEUROSCI.5511-11.2012	https://openfmri.org/dataset/ds000109																								
+http://neurovault.org/images/2884/	false belief task	false belief story		10.1523/JNEUROSCI.5511-11.2012	https://openfmri.org/dataset/ds000109																								
+http://neurovault.org/images/2885/	false belief task	all		10.1523/JNEUROSCI.5511-11.2012	https://openfmri.org/dataset/ds000109																								
+http://neurovault.org/images/2887/	false belief task	false belief story - false picture story		10.1523/JNEUROSCI.5511-11.2012	https://openfmri.org/dataset/ds000109																							1	
+http://neurovault.org/images/2886/	false belief task	false belief - false picture		10.1523/JNEUROSCI.5511-11.2012	https://openfmri.org/dataset/ds000109																								
+http://neurovault.org/images/2880/	false belief task	false belief question		10.1523/JNEUROSCI.5511-11.2012	https://openfmri.org/dataset/ds000109																								
+http://neurovault.org/images/180/	Eriksen flanker task	incongruent - congruent		10.1016/j.neuroimage.2007.08.008	https://openfmri.org/dataset/ds000102															1						1			
+http://neurovault.org/images/175/	Eriksen flanker task	incongruent correct		10.1016/j.neuroimage.2007.08.008	https://openfmri.org/dataset/ds000102																								
+http://neurovault.org/images/181/	Eriksen flanker task	incorrect - correct incongruent		10.1016/j.neuroimage.2007.08.008	https://openfmri.org/dataset/ds000102																								
+http://neurovault.org/images/183/	Eriksen flanker task	congruent correct		10.1016/j.neuroimage.2007.08.008	https://openfmri.org/dataset/ds000102																								
+http://neurovault.org/images/177/	Eriksen flanker task	incorrect - correct		10.1016/j.neuroimage.2007.08.008	https://openfmri.org/dataset/ds000102																								
+http://neurovault.org/images/178/	Eriksen flanker task	incongruent - congruent correct		10.1016/j.neuroimage.2007.08.008	https://openfmri.org/dataset/ds000102																								
+http://neurovault.org/images/528/	Incidental encoding task	validly_cued_high_confidence_hit_objects_greater_than_validly_cued_miss_objects		10.1523/JNEUROSCI.0152-11.2011	https://openfmri.org/dataset/ds000110																								1
+http://neurovault.org/images/530/	Incidental encoding task	Valid Other Greeble Cue: valid cue where following stimulus was an untested or no response greeble		10.1523/JNEUROSCI.0152-11.2011	https://openfmri.org/dataset/ds000110																								
+http://neurovault.org/images/531/	Incidental encoding task	high_confidence_hit_objects_greater_than_miss_objects_x_validly_cued_objects_greater_than_invalidly_cued		10.1523/JNEUROSCI.0152-11.2011	https://openfmri.org/dataset/ds000110																								
+http://neurovault.org/images/532/	Incidental encoding task	Valid Other Greeble: stimulus that was an untested or no response greeble and that followed a valid cue		10.1523/JNEUROSCI.0152-11.2011	https://openfmri.org/dataset/ds000110																								
+http://neurovault.org/images/526/	Incidental encoding task	Invalid Other Greeble: stimulus that was an untested or no response greeble and that followed a invalid cue		10.1523/JNEUROSCI.0152-11.2011	https://openfmri.org/dataset/ds000110																								
+http://neurovault.org/images/527/	Incidental encoding task	Invalid Miss Cue: invalid cue where following object was a subsequent miss		10.1523/JNEUROSCI.0152-11.2011	https://openfmri.org/dataset/ds000110																								
+http://neurovault.org/images/529/	Incidental encoding task	invalidly_cued_high_confidence_hit_objects_greater_than_invalidly_cued_miss_objects		10.1523/JNEUROSCI.0152-11.2011	https://openfmri.org/dataset/ds000110																								
+http://neurovault.org/images/536/	Incidental encoding task	Invalid Other Greeble Cue: invalid cue where following stimulus was an untested or no response greeble		10.1523/JNEUROSCI.0152-11.2011	https://openfmri.org/dataset/ds000110																								
+http://neurovault.org/images/537/	Incidental encoding task	Valid Other Obj Cue: valid cue where following stimulus was an untested or no response object		10.1523/JNEUROSCI.0152-11.2011	https://openfmri.org/dataset/ds000110																								
+http://neurovault.org/images/541/	Incidental encoding task	Valid Miss Cue: valid cue where following object was a subsequent miss		10.1523/JNEUROSCI.0152-11.2011	https://openfmri.org/dataset/ds000110																								
+http://neurovault.org/images/533/	Incidental encoding task	validly_cued_miss_objects_greater_than_validly_cued_high_confidence_hit_objects		10.1523/JNEUROSCI.0152-11.2011	https://openfmri.org/dataset/ds000110																								
+http://neurovault.org/images/534/	Incidental encoding task	invalidly_greater_than_validly_cued_objects		10.1523/JNEUROSCI.0152-11.2011	https://openfmri.org/dataset/ds000110																								
+http://neurovault.org/images/8746/	Incidental encoding task	Valid LC-Hit Obj object that was a subsequent low confidence hit and that followed a valid cue		10.1523/JNEUROSCI.0152-11.2011	https://openfmri.org/dataset/ds000110																								
+http://neurovault.org/images/535/	Incidental encoding task	Valid HC-Hit Cue: valid cue where following object was a subsequent high confidence hit		10.1523/JNEUROSCI.0152-11.2011	https://openfmri.org/dataset/ds000110																								
+http://neurovault.org/images/538/	Incidental encoding task	Valid HC-Hit Obj: object that was a subsequent high confidence hit and that followed a valid cue		10.1523/JNEUROSCI.0152-11.2011	https://openfmri.org/dataset/ds000110																								
+http://neurovault.org/images/540/	Incidental encoding task	invalidly_cued_miss_objects_greater_than_invalidly_cued_high_confidence_hit_objects		10.1523/JNEUROSCI.0152-11.2011	https://openfmri.org/dataset/ds000110																								
+http://neurovault.org/images/542/	Incidental encoding task	Valid Other Obj: stimulus that was an untested or no response object and that followed a valid cue		10.1523/JNEUROSCI.0152-11.2011	https://openfmri.org/dataset/ds000110																								
+http://neurovault.org/images/543/	Incidental encoding task	Valid Miss Obj: object that was a subsequent miss and that followed a valid cue		10.1523/JNEUROSCI.0152-11.2011	https://openfmri.org/dataset/ds000110																								
+http://neurovault.org/images/544/	Incidental encoding task	Invalid Miss Obj: object that was a subsequent miss and that followed an invalid cue		10.1523/JNEUROSCI.0152-11.2011	https://openfmri.org/dataset/ds000110																								
+http://neurovault.org/images/545/	Incidental encoding task	high_confidence_hit_objects_greater_than_miss_objects_x_invalidly_cued_objects_greater_than_validly_cued		10.1523/JNEUROSCI.0152-11.2011	https://openfmri.org/dataset/ds000110																								
+http://neurovault.org/images/546/	Incidental encoding task	cue - fixation		10.1523/JNEUROSCI.0152-11.2011	https://openfmri.org/dataset/ds000110																								
+http://neurovault.org/images/8745/	Incidental encoding task	Valid LC-Hit Cue_ valid cue where following object was a subsequent low confidence hit		10.1523/JNEUROSCI.0152-11.2011	https://openfmri.org/dataset/ds000110																								
+http://neurovault.org/images/8747/	Incidental encoding task	Invalid HC-Hit Cue_ invalid cue where following object was a subsequent high confidence hit		10.1523/JNEUROSCI.0152-11.2011	https://openfmri.org/dataset/ds000110																								
+http://neurovault.org/images/8748/	Incidental encoding task	Invalid HC-Hit Obj_ object that was a subsequent high confidence hit and that followed an invalid cue		10.1523/JNEUROSCI.0152-11.2011	https://openfmri.org/dataset/ds000110																								
+http://neurovault.org/images/8749/	Incidental encoding task	Invalid LC-Hit Cue_ invalid cue where following object was a subsequent low confidence hit		10.1523/JNEUROSCI.0152-11.2011	https://openfmri.org/dataset/ds000110																								
+http://neurovault.org/images/8750/	Incidental encoding task	Invalid LC-Hit Obj_ object that was a subsequent low confidence hit and that followed an invalid cue		10.1523/JNEUROSCI.0152-11.2011	https://openfmri.org/dataset/ds000110																								
+http://neurovault.org/images/438/	living/nonliving judgment on mirror-reversed and plain-text words	switch_vs_nonswitch_mronly			https://openfmri.org/dataset/ds000006a																								
+http://neurovault.org/images/439/	living/nonliving judgment on mirror-reversed and plain-text words	plain-repeat			https://openfmri.org/dataset/ds000006a																								
+http://neurovault.org/images/440/	living/nonliving judgment on mirror-reversed and plain-text words	junk			https://openfmri.org/dataset/ds000006a																								
+http://neurovault.org/images/441/	living/nonliving judgment on mirror-reversed and plain-text words	mirror-repeat ns			https://openfmri.org/dataset/ds000006a																								
+http://neurovault.org/images/437/	living/nonliving judgment on mirror-reversed and plain-text words	mirror-reversal - plain-text			https://openfmri.org/dataset/ds000006a																								
+http://neurovault.org/images/443/	living/nonliving judgment on mirror-reversed and plain-text words	switch_vs_nonswitch_plainonly			https://openfmri.org/dataset/ds000006a																								
+http://neurovault.org/images/444/	living/nonliving judgment on mirror-reversed and plain-text words	switch_vs_nonswitch			https://openfmri.org/dataset/ds000006a																								
+http://neurovault.org/images/445/	living/nonliving judgment on mirror-reversed and plain-text words	pl_sw			https://openfmri.org/dataset/ds000006a																								
+http://neurovault.org/images/442/	living/nonliving judgment on mirror-reversed and plain-text words	mirror-repeat sw			https://openfmri.org/dataset/ds000006a																								
+http://neurovault.org/images/8751/	living/nonliving judgment on mirror-reversed and plain-text words	mirror-repeat sw			https://openfmri.org/dataset/ds000006a																								
+http://neurovault.org/images/8752/	living/nonliving judgment on mirror-reversed and plain-text words	mirror-repeat ns			https://openfmri.org/dataset/ds000006a																								
+http://neurovault.org/images/8753/	living/nonliving judgment on mirror-reversed and plain-text words	pl_sw			https://openfmri.org/dataset/ds000006a																								
+http://neurovault.org/images/8754/	living/nonliving judgment on mirror-reversed and plain-text words	plain-repeat			https://openfmri.org/dataset/ds000006a																								
+http://neurovault.org/images/8755/	living/nonliving judgment on mirror-reversed and plain-text words	junk			https://openfmri.org/dataset/ds000006a																								
+http://neurovault.org/images/8756/	living/nonliving judgment on mirror-reversed and plain-text words	switch vs nonswitch plain only			https://openfmri.org/dataset/ds000006a																								
+http://neurovault.org/images/8757/	living/nonliving judgment on mirror-reversed and plain-text words	switch vs nonswitch			https://openfmri.org/dataset/ds000006a																								
+http://neurovault.org/images/8758/	living/nonliving judgment on mirror-reversed and plain-text words	mirror-reversal - plain-text			https://openfmri.org/dataset/ds000006a			1		1				1															
+http://neurovault.org/images/8759/	living/nonliving judgment on mirror-reversed and plain-text words	switch vs nonswitch mronly			https://openfmri.org/dataset/ds000006a																								
+http://neurovault.org/images/303/	Landmark task	no response (task)		10.1186/2047-217X-2-6	https://openfmri.org/dataset/ds000114																								
+http://neurovault.org/images/300/	Landmark task	correct response (task)		10.1186/2047-217X-2-6	https://openfmri.org/dataset/ds000114																								
+http://neurovault.org/images/307/	finger tapping task	finger		10.1186/2047-217X-2-6	https://openfmri.org/dataset/ds000114																								
+http://neurovault.org/images/301/	Tapping task	lips		10.1186/2047-217X-2-6	https://openfmri.org/dataset/ds000114																								
+http://neurovault.org/images/304/	Covert verb generation task	overt verb generation		10.1186/2047-217X-2-6	https://openfmri.org/dataset/ds000114																								
+http://neurovault.org/images/305/	Landmark task	no response (task)		10.1186/2047-217X-2-6	https://openfmri.org/dataset/ds000114																								
+http://neurovault.org/images/310/	Tapping task	motor - foot		10.1186/2047-217X-2-6	https://openfmri.org/dataset/ds000114																								
+http://neurovault.org/images/311/	Overt word repetition	overt word repetition - baseline		10.1186/2047-217X-2-6	https://openfmri.org/dataset/ds000114																								
+http://neurovault.org/images/308/	Landmark task	correct or incorrect response (control)		10.1186/2047-217X-2-6	https://openfmri.org/dataset/ds000114																								
+http://neurovault.org/images/309/	Covert verb generation task	covert verb generation - baseline		10.1186/2047-217X-2-6	https://openfmri.org/dataset/ds000114																								
+http://neurovault.org/images/299/	Landmark task	incorrect response (task)		10.1186/2047-217X-2-6	https://openfmri.org/dataset/ds000114																								
+http://neurovault.org/images/446/	temporal discounting task	easy parametric			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/447/	Balloon Analogue Risk Task (BART)	explode			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/448/	stop signal task	go			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/449/	stop signal task	junk			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/451/	emotional regulation task	reappraise negative stimulus			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/452/	stop signal task	unsuccessful stop			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/450/	temporal discounting task	easy trials all			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/453/	Balloon Analogue Risk Task (BART)	accept - reject			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/454/	stop signal task	all			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/457/	emotional regulation task	rating all			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/455/	temporal discounting task	hard trials all			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/456/	Balloon Analogue Risk Task (BART)	all			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/458/	temporal discounting task	junk			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/459/	Balloon Analogue Risk Task (BART)	reject			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/460/	emotional regulation task	rating parametric			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/462/	temporal discounting task	hard parametric			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/464/	emotional regulation task	attention look negative cue			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/465/	stop signal task	successful stop			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/3043/	stop signal task	unsucc vs succ stop			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/3044/	emotional regulation task	junk rating			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/3045/	emotional regulation task	all			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/3046/	emotional regulation task	att neg vs att neut			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/3047/	emotional regulation task	suppr neg vs att neg			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/3048/	temporal discounting task	all			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/3049/	temporal discounting task	hard all vs easy all			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/3042/	stop signal task	succ stop vs go			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/461/	emotional regulation task	look attention neutral cue			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/463/	Balloon Analogue Risk Task (BART)	accept			https://openfmri.org/dataset/ds000009																								
+http://neurovault.org/images/472/	Simon task	incorrect - correct incongruent			https://openfmri.org/dataset/ds000101																				1				
+http://neurovault.org/images/466/	Simon task	incongruent correct			https://openfmri.org/dataset/ds000101																								
+http://neurovault.org/images/468/	Simon task	incorrect - correct			https://openfmri.org/dataset/ds000101																								
+http://neurovault.org/images/469/	Simon task	incongruent - congruent correct			https://openfmri.org/dataset/ds000101																								
+http://neurovault.org/images/474/	Simon task	congruent correct			https://openfmri.org/dataset/ds000101																								
+http://neurovault.org/images/471/	Simon task	incongruent - congruent			https://openfmri.org/dataset/ds000101																								
+http://neurovault.org/images/8724/	Simon task	congruent incorrect			https://openfmri.org/dataset/ds000101																								
+http://neurovault.org/images/8725/	Simon task	incongruent incorrect			https://openfmri.org/dataset/ds000101																								
+http://neurovault.org/images/2659/	stop signal task	all			https://openfmri.org/dataset/ds000017																								
+http://neurovault.org/images/2665/	stop signal task	successful stop			https://openfmri.org/dataset/ds000017																								
+http://neurovault.org/images/2660/	stop signal task	all			https://openfmri.org/dataset/ds000017																								
+http://neurovault.org/images/2661/	stop signal task	Failed stop trial - critical			https://openfmri.org/dataset/ds000017																								
+http://neurovault.org/images/2664/	stop signal task	junk trial			https://openfmri.org/dataset/ds000017																								
+http://neurovault.org/images/2667/	stop signal task	fails top crit- succssful stop			https://openfmri.org/dataset/ds000017																								
+http://neurovault.org/images/2663/	stop signal task	Failed stop trial - noncritical			https://openfmri.org/dataset/ds000017																								
+http://neurovault.org/images/2662/	Probabilistic classification task	all			https://openfmri.org/dataset/ds000017																								
+http://neurovault.org/images/2669/	stop signal task	fails top crit - succsful stop			https://openfmri.org/dataset/ds000017																								
+http://neurovault.org/images/2670/	stop signal task	failed stop trial - noncritical			https://openfmri.org/dataset/ds000017																								
+http://neurovault.org/images/2671/	Probabilistic classification task	probabilistic classification trials			https://openfmri.org/dataset/ds000017																								
+http://neurovault.org/images/2672/	Probabilistic classification task	all			https://openfmri.org/dataset/ds000017																								
+http://neurovault.org/images/2673/	stop signal task	junk trial			https://openfmri.org/dataset/ds000017																								
+http://neurovault.org/images/2674/	stop signal task	failed stop trial - critical			https://openfmri.org/dataset/ds000017																								
+http://neurovault.org/images/2675/	stop signal task	succcessful stop - go noncrit			https://openfmri.org/dataset/ds000017																								
+http://neurovault.org/images/2677/	stop signal task	go crit - go noncrit			https://openfmri.org/dataset/ds000017																								
+http://neurovault.org/images/2676/	stop signal task	successful stop- go noncrit			https://openfmri.org/dataset/ds000017																								
+http://neurovault.org/images/2680/	stop signal task	probabilistic classification trials			https://openfmri.org/dataset/ds000017																								
+http://neurovault.org/images/2678/	stop signal task	go trials - noncritical			https://openfmri.org/dataset/ds000017																								
+http://neurovault.org/images/2681/	stop signal task	successful stop			https://openfmri.org/dataset/ds000017																								
+http://neurovault.org/images/2682/	stop signal task	go crit - go noncrit			https://openfmri.org/dataset/ds000017																								
+http://neurovault.org/images/2683/	stop signal task	go trials - critical			https://openfmri.org/dataset/ds000017																								
+http://neurovault.org/images/2684/	Probabilistic classification task	fails top crit - fails top noncrit			https://openfmri.org/dataset/ds000017																								
+http://neurovault.org/images/2668/	stop signal task	go trials - noncritical			https://openfmri.org/dataset/ds000017																								
+http://neurovault.org/images/2666/	stop signal task	fails top crit - fails top non-crit			https://openfmri.org/dataset/ds000017																								
+http://neurovault.org/images/2679/	stop signal task	go trials - critical			https://openfmri.org/dataset/ds000017																								
+http://neurovault.org/images/2657/	rhyme verification task	word - pseudo-word			https://openfmri.org/dataset/ds000003																								
+http://neurovault.org/images/2656/	rhyme verification task	word			https://openfmri.org/dataset/ds000003																								
+http://neurovault.org/images/2658/	rhyme verification task	all			https://openfmri.org/dataset/ds000003					1	1						1		1				1						
+http://neurovault.org/images/2655/	rhyme verification task	pseudoword			https://openfmri.org/dataset/ds000003																								
+http://neurovault.org/images/2705/	object one-back task	scrambled		10.1016/j.neuroimage.2004.05.020	https://openfmri.org/dataset/ds000105																								
+http://neurovault.org/images/2707/	object one-back task	face - house		10.1016/j.neuroimage.2004.05.020	https://openfmri.org/dataset/ds000105																								
+http://neurovault.org/images/2709/	object one-back task	house - scrambled		10.1016/j.neuroimage.2004.05.020	https://openfmri.org/dataset/ds000105																								
+http://neurovault.org/images/2706/	object one-back task	chair		10.1016/j.neuroimage.2004.05.020	https://openfmri.org/dataset/ds000105																								
+http://neurovault.org/images/2711/	object one-back task	cat		10.1016/j.neuroimage.2004.05.020	https://openfmri.org/dataset/ds000105																								
+http://neurovault.org/images/2708/	object one-back task	scissors		10.1016/j.neuroimage.2004.05.020	https://openfmri.org/dataset/ds000105																								
+http://neurovault.org/images/2713/	object one-back task	face		10.1016/j.neuroimage.2004.05.020	https://openfmri.org/dataset/ds000105																								
+http://neurovault.org/images/2710/	object one-back task	shoe		10.1016/j.neuroimage.2004.05.020	https://openfmri.org/dataset/ds000105																								
+http://neurovault.org/images/2715/	object one-back task	bottle		10.1016/j.neuroimage.2004.05.020	https://openfmri.org/dataset/ds000105																								
+http://neurovault.org/images/2712/	object one-back task	face - scrambled		10.1016/j.neuroimage.2004.05.020	https://openfmri.org/dataset/ds000105																								
+http://neurovault.org/images/2717/	object one-back task	house - face		10.1016/j.neuroimage.2004.05.020	https://openfmri.org/dataset/ds000105																								
+http://neurovault.org/images/2714/	object one-back task	all		10.1016/j.neuroimage.2004.05.020	https://openfmri.org/dataset/ds000105																								
+http://neurovault.org/images/2716/	object one-back task	chair - scrambled		10.1016/j.neuroimage.2004.05.020	https://openfmri.org/dataset/ds000105																								
+http://neurovault.org/images/2704/	object one-back task	house		10.1016/j.neuroimage.2004.05.020	https://openfmri.org/dataset/ds000105																								
+http://neurovault.org/images/2718/	oddball task	visual standard		10.1523/JNEUROSCI.2649-13.2013	https://openfmri.org/dataset/ds000116																								
+http://neurovault.org/images/2721/	oddball task	auditory standard stimulus presentation		10.1523/JNEUROSCI.2649-13.2013	https://openfmri.org/dataset/ds000116																								
+http://neurovault.org/images/2719/	oddball task	visual all		10.1523/JNEUROSCI.2649-13.2013	https://openfmri.org/dataset/ds000116																								
+http://neurovault.org/images/2725/	oddball task	auditory all		10.1523/JNEUROSCI.2649-13.2013	https://openfmri.org/dataset/ds000116																								
+http://neurovault.org/images/2723/	oddball task	auditory standard		10.1523/JNEUROSCI.2649-13.2013	https://openfmri.org/dataset/ds000116																								
+http://neurovault.org/images/2729/	oddball task	auditory targets - standards		10.1523/JNEUROSCI.2649-13.2013	https://openfmri.org/dataset/ds000116																								
+http://neurovault.org/images/2727/	oddball task	behavioral response time following visual oddball stimulus onset		10.1523/JNEUROSCI.2649-13.2013	https://openfmri.org/dataset/ds000116																								
+http://neurovault.org/images/2726/	oddball task	behavioral response time following auditory oddball stimulus onset		10.1523/JNEUROSCI.2649-13.2013	https://openfmri.org/dataset/ds000116																								
+http://neurovault.org/images/2724/	oddball task	auditory reaction time		10.1523/JNEUROSCI.2649-13.2013	https://openfmri.org/dataset/ds000116																								
+http://neurovault.org/images/2720/	oddball task	auditory oddball stimulus presentation		10.1523/JNEUROSCI.2649-13.2013	https://openfmri.org/dataset/ds000116																								
+http://neurovault.org/images/2722/	oddball task	visual oddball		10.1523/JNEUROSCI.2649-13.2013	https://openfmri.org/dataset/ds000116																								
+http://neurovault.org/images/2731/	oddball task	visual targets - standards		10.1523/JNEUROSCI.2649-13.2013	https://openfmri.org/dataset/ds000116																								
+http://neurovault.org/images/2728/	oddball task	visual reaction time		10.1523/JNEUROSCI.2649-13.2013	https://openfmri.org/dataset/ds000116																								
+http://neurovault.org/images/2733/	oddball task	visual oddball stimulus presentation		10.1523/JNEUROSCI.2649-13.2013	https://openfmri.org/dataset/ds000116																								
+http://neurovault.org/images/2730/	oddball task	visual standard stimulus presentation		10.1523/JNEUROSCI.2649-13.2013	https://openfmri.org/dataset/ds000116																								
+http://neurovault.org/images/2732/	oddball task	auditory oddball		10.1523/JNEUROSCI.2649-13.2013	https://openfmri.org/dataset/ds000116																								
+http://neurovault.org/images/2832/	stop signal task with pseudo word naming	unsuccessful - successful stop		10.1093/cercor/bhm220	https://openfmri.org/dataset/ds000007																								
+http://neurovault.org/images/2829/	stop signal task with letter naming	junk		10.1093/cercor/bhm220	https://openfmri.org/dataset/ds000007																								
+http://neurovault.org/images/2834/	stop signal task with pseudo word naming	successful stop - go		10.1093/cercor/bhm220	https://openfmri.org/dataset/ds000007																								
+http://neurovault.org/images/2831/	stop signal task with pseudo word naming	all		10.1093/cercor/bhm220	https://openfmri.org/dataset/ds000007																								
+http://neurovault.org/images/2836/	stop signal task	successful stop - go		10.1093/cercor/bhm220	https://openfmri.org/dataset/ds000007																								
+http://neurovault.org/images/2833/	stop signal task with pseudo word naming	junk		10.1093/cercor/bhm220	https://openfmri.org/dataset/ds000007																								
+http://neurovault.org/images/2835/	stop signal task with letter naming	successful stop		10.1093/cercor/bhm220	https://openfmri.org/dataset/ds000007																								
+http://neurovault.org/images/2818/	stop signal task with letter naming	successful stop - go		10.1093/cercor/bhm220	https://openfmri.org/dataset/ds000007																								
+http://neurovault.org/images/2817/	stop signal task with letter naming	failed stop		10.1093/cercor/bhm220	https://openfmri.org/dataset/ds000007																								
+http://neurovault.org/images/2820/	stop signal task	junk		10.1093/cercor/bhm220	https://openfmri.org/dataset/ds000007																								
+http://neurovault.org/images/2819/	stop signal task	successful stop		10.1093/cercor/bhm220	https://openfmri.org/dataset/ds000007																								
+http://neurovault.org/images/2822/	stop signal task	failed stop		10.1093/cercor/bhm220	https://openfmri.org/dataset/ds000007																								
+http://neurovault.org/images/2821/	stop signal task with letter naming	all		10.1093/cercor/bhm220	https://openfmri.org/dataset/ds000007																								
+http://neurovault.org/images/2824/	stop signal task with letter naming	go		10.1093/cercor/bhm220	https://openfmri.org/dataset/ds000007																								
+http://neurovault.org/images/2823/	stop signal task with pseudo word naming	successful stop		10.1093/cercor/bhm220	https://openfmri.org/dataset/ds000007																								
+http://neurovault.org/images/2826/	stop signal task with pseudo word naming	go		10.1093/cercor/bhm220	https://openfmri.org/dataset/ds000007																								
+http://neurovault.org/images/2825/	stop signal task	go		10.1093/cercor/bhm220	https://openfmri.org/dataset/ds000007																								
+http://neurovault.org/images/2828/	stop signal task	unsuccessful - successful stop		10.1093/cercor/bhm220	https://openfmri.org/dataset/ds000007																								
+http://neurovault.org/images/2827/	stop signal task	all		10.1093/cercor/bhm220	https://openfmri.org/dataset/ds000007																								
+http://neurovault.org/images/2830/	stop signal task with letter naming	unsuccessful - successful stop		10.1093/cercor/bhm220	https://openfmri.org/dataset/ds000007																								
